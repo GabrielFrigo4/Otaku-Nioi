@@ -1,0 +1,1 @@
+audio_play_sound(sound_golpe,10,false);

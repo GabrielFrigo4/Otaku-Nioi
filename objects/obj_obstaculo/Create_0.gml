@@ -1,0 +1,9 @@
+velv = 0;
+velh = 0;
+max_vel = 12;
+move = 48;
+moved = 0;
+Cvelh = 0;
+Cvelv = 0;
+image_index = 1;
+image_speed = 0;

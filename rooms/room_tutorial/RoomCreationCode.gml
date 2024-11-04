@@ -1,0 +1,1 @@
+global.tempo = 999;
